@@ -1,15 +1,7 @@
-# DevClass 001: Projeto DevCar
-Repositório do nosso devClass de HTML e CSS para iniciantes.
+# Portugues
+Mais um projeto para por em prática o conhecimento aprendido no CSS.
+Dessa vez foi o display grid e com mais outras funcionalidades.
 
-## Recursos: 
-Template utilizado neste projeto
-https://www.figma.com/file/zEdDGF7hn1AOmZHfI04Sz6/devClass_001_HTML_CSS?node-id=0%3A1
-
-Domine o FlexBox com o FlexboxFroggy
-https://flexboxfroggy.com/
-
-Lista das transparências para adicionar opacidade a uma cor hexadecimal:
-https://gist.github.com/lucianodiisouza/bad9ee2e73bfd33fd6ca4a601fabf6c3
-
-Link para a landing page já pronta:
-https://devclass-001.netlify.app/
+# English
+Another project to put into practice the knowledge learned in CSS.
+This time it was the display grid and with more other features.
